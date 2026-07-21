@@ -14,9 +14,16 @@ Controle de Versão Git e GitHub
 
 Banco de Dados Relacional e SQL
 
-Time de Desenvolvedores
+Desenvolvedor
 
 Gabriel Andrade Rodriguez
+
+🚀 Demonstração e Acesso Online
+Você pode acessar e testar o jogo diretamente pelo navegador através do GitHub Pages, sem a necessidade de instalação prévia:
+👉 Acessar o Mercadinho Fácil (GitHub Pages)
+
+ **[Acessar o Mercadinho Fácil (GitHub Pages)](https://gabrielrodriguez-data.github.io/MercadinhoF-cil/) **
+
 
 Objetivo do Software
 
