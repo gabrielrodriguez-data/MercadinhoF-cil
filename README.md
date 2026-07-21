@@ -1,18 +1,25 @@
 Mercadinho Fácil
 
 Status do Projeto
+
 Em desenvolvimento
 
 Tecnologias Utilizadas
+
 Linguagem Java
+
 Ambiente de Desenvolvimento Apache NetBeans
+
 Controle de Versão Git e GitHub
+
 Banco de Dados Relacional e SQL
 
 Time de Desenvolvedores
+
 Gabriel Andrade Rodriguez
 
 Objetivo do Software
+
 O sistema Mercadinho Fácil tem como objetivo principal automatizar a rotina de um estabelecimento comercial de pequeno porte, permitindo o gerenciamento eficiente de vendas, controle de estoque, movimentação de caixa, cadastro de clientes, fornecedores, produtos e usuários por meio de uma aplicação desktop robusta desenvolvida em Java.
 
 Funcionalidades do Sistema
