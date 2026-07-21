@@ -18,13 +18,6 @@ Desenvolvedor
 
 Gabriel Andrade Rodriguez
 
-🚀 Demonstração e Acesso Online
-Você pode acessar e testar o jogo diretamente pelo navegador através do GitHub Pages, sem a necessidade de instalação prévia:
-👉 Acessar o Mercadinho Fácil (GitHub Pages)
-
- **[Acessar o Mercadinho Fácil (GitHub Pages)](https://gabrielrodriguez-dados.github.io/MercadinhoF-cil/) **
-
-
 Objetivo do Software
 
 O sistema Mercadinho Fácil tem como objetivo principal automatizar a rotina de um estabelecimento comercial de pequeno porte, permitindo o gerenciamento eficiente de vendas, controle de estoque, movimentação de caixa, cadastro de clientes, fornecedores, produtos e usuários por meio de uma aplicação desktop robusta desenvolvida em Java.
