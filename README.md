@@ -22,7 +22,7 @@ Gabriel Andrade Rodriguez
 Você pode acessar e testar o jogo diretamente pelo navegador através do GitHub Pages, sem a necessidade de instalação prévia:
 👉 Acessar o Mercadinho Fácil (GitHub Pages)
 
- **[Acessar o Mercadinho Fácil (GitHub Pages)](https://gabrielrodriguez-data.github.io/MercadinhoF-cil/) **
+ **[Acessar o Mercadinho Fácil (GitHub Pages)](https://gabrielrodriguez-dados.github.io/MercadinhoF-cil/) **
 
 
 Objetivo do Software
